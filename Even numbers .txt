@@ -1,8 +1,9 @@
-Int n
+number=int(input("enter a number:"))
 If (n%2==0)
 Print (number is even)
 else
 Print (number is odd)
+
 
 
 
