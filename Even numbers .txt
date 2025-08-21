@@ -1,0 +1,8 @@
+Int n=100
+If (n%2==0)
+Print (number is even)
+else
+Print (number is odd)
+
+
+
