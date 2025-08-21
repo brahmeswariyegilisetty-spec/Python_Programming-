@@ -1,8 +1,9 @@
-number=int(input("enter a number:"))
-If (n%2==0)
-Print (number is even)
-else
-Print (number is odd)
+num = int(input("Enter a number: "))
+
+if num % 2 == 0:
+    print(num, "is Even")
+else:
+    print(num, "is Odd")
 
 
 
